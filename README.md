@@ -8,7 +8,7 @@ This is a repository for the Practical Application 1 in Module 5 of Berkeley Haa
 
    * This application reads the data from coupons.csv, and performs data cleanup, filtering and analysis, and provides observations made from the analysis.
 
-2\. The link for the notebook file: https://github.com/chinarkulkarni/AI\_ML\_Course\_Practical\_Application\_1/blob/main/prompt.ipynb
+2\. The link for the notebook file: https://github.com/chinarkulkarni/AI_ML_Course_Practical_Application_1/blob/main/prompt.ipynb
 
 3\. Data Overview:
 
