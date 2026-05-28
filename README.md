@@ -8,7 +8,9 @@ This is a repository for the Practical Application 1 in Module 5 of Berkeley Haa
 
    * This application reads the data from coupons.csv, and performs data cleanup, filtering and analysis, and provides observations made from the analysis.
 
-2\. Data Overview:
+2\. The link for the notebook file: https://github.com/chinarkulkarni/AI\_ML\_Course\_Practical\_Application\_1/blob/main/prompt.ipynb
+
+3\. Data Overview:
 
    * The spreadsheet data/coupons.csv comes from the UCI Machine Learning repository, collected via a survey on Amazon Mechanical Turk.
    * It describes the different driving scenarios, and asks the person driving, whether he will accept the coupon presented.
@@ -44,5 +46,5 @@ This is a repository for the Practical Application 1 in Module 5 of Berkeley Haa
      * It is more popular among people who are single or divorced, and/or have kids.
      * The coupons that have a longer expiration date of 1 day have a higher acceptance rate than the short lived ones.
 
-5\. The link for the notebook file: https://github.com/chinarkulkarni/AI\_ML\_Course\_Practical\_Application\_1/blob/main/prompt.ipynb
+
 
